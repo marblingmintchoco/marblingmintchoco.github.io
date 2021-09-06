@@ -1,12 +1,12 @@
 ## 박윤아 이력서
 
-안녕하세요. 반갑습니다.</br>
+안녕하세요. 반갑습니다.
 박윤아입니다.
 
 ### Markdown
 
-도비입니다.</br>
-양말을 받고 싶습니다.</br>
+도비입니다.
+양말을 받고 싶습니다.
 
 ```markdown
 Syntax highlighted code block
