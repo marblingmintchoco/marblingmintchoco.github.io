@@ -5,29 +5,30 @@
 
 ![Image of Dobby](https://mblogthumb-phinf.pstatic.net/MjAyMDA1MTRfODYg/MDAxNTg5NDIzNTg0MDY0.0FjhM3Q4mAmOLCrs1ohYnKSZsqbfCVQmerKFpJlppBMg.o5qWKthkRltq0v3GI4EjT_rl9nCa8ndgiojftUMJTDgg.PNG.gustn0020420/image.png?type=w800)
 
-### Markdown
+### 자기소개
 
 도비입니다.<br>
 양말을 받고 싶습니다.
-
-```markdown
-Syntax highlighted code block
-
-# 뭐를 적는 게
-## 좋을까요
-### 생각이 안 나는 군요
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
+<br>
+<br>
+**1. 내가 좋아하는 음식**<br>
+- 오미자<br>
+![Schisandra](https://lh3.googleusercontent.com/proxy/NWwpsrL0mL_zzARbmmD18L1qdQCb8xsdwMmYyOR9XiQgzqTy1VD7yZws6NDW3a8LSDgXlannQZMjGyNM8agpVdkQ20AmMZSSfuLoPoNwXVMKmVPdWg)
+<br>
+<br>
+- 사과<br>
+![apple](https://src.hidoc.co.kr/image/lib/2020/12/30/1609314077983_0.jpg)
+<br>
+<br>
+**2. 내가 싫어하는 음식**<br>
+- 토마토<br>
+![tomato](http://res.heraldm.com/phpwas/restmb_idxmake.php?idx=507&simg=/content/image/2016/12/20/20161220000997_0.jpg)
+<br>
+<br>
+- 망고<br>
+![mango](https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F9980A0335A22D4680B)
+<br>
+<br>
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
