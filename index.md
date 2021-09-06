@@ -3,6 +3,8 @@
 안녕하세요. 반갑습니다.
 박윤아입니다.
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 ### Markdown
 
 도비입니다.
