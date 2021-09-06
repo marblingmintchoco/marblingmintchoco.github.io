@@ -3,7 +3,7 @@
 안녕하세요. 반갑습니다.<br>
 박윤아입니다.
 
-![Image of Yaktocat](![image](https://mblogthumb-phinf.pstatic.net/MjAyMDA1MTRfODYg/MDAxNTg5NDIzNTg0MDY0.0FjhM3Q4mAmOLCrs1ohYnKSZsqbfCVQmerKFpJlppBMg.o5qWKthkRltq0v3GI4EjT_rl9nCa8ndgiojftUMJTDgg.PNG.gustn0020420/image.png?type=w800.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ### Markdown
 
