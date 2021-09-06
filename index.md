@@ -3,7 +3,7 @@
 안녕하세요. 반갑습니다.
 박윤아입니다.
 
-![Image of Yaktocat](https://mblogthumb-phinf.pstatic.net/MjAxOTA3MDJfMjAg/MDAxNTYyMDMyNDU3MjYy.cPtTMpCaonsPlOXPHubzE_j71yVeF7L95OoxXs31lYkg.ZQg5emgUhXDPa7cdrMZh4KktyHk-QXub5LSm-5f13tMg.JPEG.yeorang92/DOBBY_by%ED%99%8D%EC%97%AC%EB%9E%91.jpg?type=w800.png)
+![Image of Yaktocat](https://mblogthumb-phinf.pstatic.net/MjAxOTA3MDJfMjAg/MDAxNTYyMDMyNDU3MjYy.cPtTMpCaonsPlOXPHubzE_j71yVeF7L95OoxXs31lYkg.ZQg5emgUhXDPa7cdrMZh4KktyHk-QXub5LSm-5f13tMg.JPEG.yeorang92/DOBBY_by%ED%99%8D%EC%97%AC%EB%9E%91.jpg?type=w800.jpg)
 
 ### Markdown
 
