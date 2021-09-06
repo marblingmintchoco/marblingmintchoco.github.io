@@ -1,7 +1,7 @@
-## Welcome to GitHub Pages
+## 박윤아 이력서
 
-안녕하세요. 반갑습니다.
-ㅋㅋㅋㅋㅋㅋ
+안녕하세요. 반갑습니다.</br>
+박윤아입니다.
 
 ### Markdown
 
@@ -11,9 +11,9 @@
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 뭐를 적는 게
+## 좋을까요
+### 생각이 안 나는 군요
 
 - Bulleted
 - List
