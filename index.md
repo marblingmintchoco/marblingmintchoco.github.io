@@ -13,7 +13,7 @@
 <br>
 **1. 내가 좋아하는 음식**<br>
 - 오미자<br>
-![Schisandra](https://lh3.googleusercontent.com/proxy/NWwpsrL0mL_zzARbmmD18L1qdQCb8xsdwMmYyOR9XiQgzqTy1VD7yZws6NDW3a8LSDgXlannQZMjGyNM8agpVdkQ20AmMZSSfuLoPoNwXVMKmVPdWg)
+![Schisandra](https://raw.githubusercontent.com/marblingmintchoco/marblingmintchoco.github.io/main/schisandra.jpg)
 <br>
 <br>
 - 사과<br>
